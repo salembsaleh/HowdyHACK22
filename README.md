@@ -1,3 +1,3 @@
 # HowdyHACK22
-
-#Yo
+**Hackathon Team:**
+Salem Saleh, Micheal Ades, William Wu, and Sean Wells
